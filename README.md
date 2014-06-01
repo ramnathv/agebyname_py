@@ -1,0 +1,3 @@
+## Age by Name
+
+This notebook is inspired by [Nate Silver's](https://twitter.com/FiveThirtyEight) recent article on [How to Tell Someone's Age When All you Know is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/). It allows one to (almost) replicate the analysis done in the article, and provides more extensive features. I have done similar work using [R](https://github.com/ramnathv/agebyname), and you can find it here.
